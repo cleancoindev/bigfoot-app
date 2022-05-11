@@ -15,7 +15,7 @@
     "@testing-library/user-event": "^12.6.0",
     "@toast-ui/react-chart": "^1.0.2",
     "@vtaits/react-color-picker": "^0.1.1",
-    "@walletconnect/web3-provider": "^1.4.0",
+    "@walletconnect/web3-provider": "^1.7.7",
     "@web3-react/core": "^6.1.9",
     "apexcharts": "^3.23.1",
     "authereum": "^0.1.14",
